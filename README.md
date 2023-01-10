@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, this iss Junayet</h1>
+<h1 align="center">Hi 👋, this is Junayet</h1>
 <h3 align="center">I'm Student of BUBT</h3>
 
 - 🔭 I’m currently working on **C++**
