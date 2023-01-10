@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, this iss Junayet</h1>
+<h3 align="center">I'm Student of BUBT</h3>
 
-<!--
-**Junayet-Sipat/Junayet-Sipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **C++**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C&C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **C**
+
+- 💬 Ask me about **C**
+
+- 📫 How to reach me **hossain.sipat.junayet@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/junayet hossain sipat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junayet hossain sipat" height="30" width="40" /></a>
+</p>
+
